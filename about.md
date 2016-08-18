@@ -1,5 +1,5 @@
 ---
-title: About auto deployment again
+title: About instant preview
 layout: page
 permalink: "/about/"
 ---
