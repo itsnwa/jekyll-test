@@ -1,5 +1,5 @@
 ---
-title: About instant preview
+title: About blah blah
 layout: page
 permalink: "/about/"
 ---
