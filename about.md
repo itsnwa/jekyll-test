@@ -1,5 +1,5 @@
 ---
-title: About
+title: About auto deploy
 layout: page
 permalink: "/about/"
 ---
