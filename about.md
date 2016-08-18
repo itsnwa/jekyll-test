@@ -1,5 +1,5 @@
 ---
-title: About again nothing
+title: About again nothing something
 layout: page
 permalink: "/about/"
 ---
